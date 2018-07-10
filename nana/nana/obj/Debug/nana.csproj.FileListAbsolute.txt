@@ -1,0 +1,6 @@
+D:\newFile\nana\nana\bin\Debug\nana.exe.config
+D:\newFile\nana\nana\bin\Debug\nana.exe
+D:\newFile\nana\nana\bin\Debug\nana.pdb
+D:\newFile\nana\nana\obj\Debug\nana.csprojResolveAssemblyReference.cache
+D:\newFile\nana\nana\obj\Debug\nana.exe
+D:\newFile\nana\nana\obj\Debug\nana.pdb
